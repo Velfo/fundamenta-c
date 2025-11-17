@@ -1,0 +1,68 @@
+# ==========================================
+# JetBrains / CLion
+# ==========================================
+.idea/
+cmake-build-*/
+out/
+artifacts/
+
+# ==========================================
+# Build files & CMake cache
+# ==========================================
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+CTestTestfile.cmake
+*.cmake
+
+# Ninja
+build.ninja
+.ninja_deps
+.ninja_log
+
+# ==========================================
+# macOS system files
+# ==========================================
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ==========================================
+# Compiled binaries / objects
+# ==========================================
+*.o
+*.lo
+*.la
+*.a
+*.so
+*.dylib
+*.exe
+*.out
+
+# ==========================================
+# Logs
+# ==========================================
+*.log
+
+# ==========================================
+# Tests output
+# ==========================================
+*.gcda
+*.gcno
+*.gcov
+
+# ==========================================
+# Temporary editor / backup files
+# ==========================================
+*~
+*.swp
+*.swo
+*.tmp
+
+# ==========================================
+# CLion-generated temporary run configs
+# ==========================================
+cmake-build-debug/
+cmake-build-release/
+cmake-build-profile/
