@@ -12,6 +12,7 @@ int main(void)
     int *ar = generate_rand_arr(capacity);
 
 
+
     // Fill and print that same array
     populate_array(ar);      // uses the pointer from generate_rand_arr
     print_array(ar);
