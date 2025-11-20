@@ -15,5 +15,6 @@ int main(void)
     populate_array(ar);      // uses the pointer from generate_rand_arr
     print_array(ar);
 
+
     return 0;
 }
