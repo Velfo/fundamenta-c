@@ -67,7 +67,7 @@ cmake-build-debug/
 cmake-build-release/
 cmake-build-profile/
 
-# Obsidian
+# Obsidian stuff
 .obsidian/
 .obsidian/workspace
 .obsidian/cache
