@@ -66,3 +66,10 @@ build.ninja
 cmake-build-debug/
 cmake-build-release/
 cmake-build-profile/
+
+# Obsidian
+.obsidian/
+.obsidian/workspace
+.obsidian/cache
+.obsidian/plugins/
+.obsidian/snippets/
